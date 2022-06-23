@@ -11,6 +11,8 @@ if __name__ == "__main__":
     else:
         texts = []
 
+    texts
+
     text = st.text_input("text")
     texts.append(text)
 
